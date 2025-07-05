@@ -9,7 +9,7 @@ def email(message):
     port = 465
 
     username = "org.imj.yyc@gmail.com"
-    password = "mlxm pzax bjjx nrsm"
+    password = "xxx"
 
     recipient_email = "imjogiat@gmail.com" 
 
